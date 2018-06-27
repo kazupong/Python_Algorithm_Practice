@@ -4,7 +4,7 @@ These are some random self-studied codes written in Python 3.
 ## カバーする予定のアルゴリズム
 - [x] 二分探索木(binary tree)   -->   BFS_DFS.py
 - [x] グラフの探索(BFS,DFS)      -->   BFS_DFS.py
-- [x] 累積和       -->  comulative_sum.py  [参照サイト](https://paiza.hatenablog.com/entry/2015/01/21/【累積和、しゃくとり法】初級者でも解るアルゴ "参照サイト")
+- [x] 累積和                    -->  comulative_sum.py  [参照サイト](https://paiza.hatenablog.com/entry/2015/01/21/【累積和、しゃくとり法】初級者でも解るアルゴ "参照サイト")
 - [ ] 累積xor
 - [ ] 二分探索
 - [ ] Union-Find
