@@ -4,7 +4,7 @@ These are some random self-studied codes written in Python 3.
 ## カバーする予定のアルゴリズム
 - [x] 二分探索木(binary tree)   -->   BFS_DFS.py
 - [x] グラフの探索(BFS,DFS)      -->   BFS_DFS.py
-- [x] 累積和                    -->  comulative_sum.py  [参照サイト](https://paiza.hatenablog.com/entry/2015/01/21/【累積和、しゃくとり法】初級者でも解るアルゴ "参照サイト")
+- [x] 累積和                    -->  comulative_sum.py                             [参照サイト](https://paiza.hatenablog.com/entry/2015/01/21/【累積和、しゃくとり法】初級者でも解るアルゴ "参照サイト") 
 - [ ] 累積xor
 - [ ] 二分探索
 - [ ] Union-Find
@@ -14,3 +14,11 @@ These are some random self-studied codes written in Python 3.
 - [ ] 二部グラフの最大マッチング(最大流問題)
 - [ ] ダイクストラ法
 - [ ] 階乗と逆元の前計算による組み合わせの計算
+
+### References
+
+[Robot Moving](https://www.codechef.com/DEC11/problems/MOVES/ ). 
+* mod prime # の理解を深める. 
+
+[Xor Sum](https://beta.atcoder.jp/contests/abc050/tasks/arc066_b ). 
+* 
