@@ -15,7 +15,25 @@ These are some random self-studied codes written in Python 3.
 - [ ] ダイクストラ法
 - [ ] 階乗と逆元の前計算による組み合わせの計算
 
-### References
+### 各アルゴリズムのポイント
+
+* 二分探索木(binary tree). 
+
+
+* グラフの探索(BFS,DFS). 
+  -----< Breadth-Fast-Search>
+    | （非再帰的解法）Queue（もしくは　線形のデータ構造で、overrideしてQueueを作る）を使い、ルートをpushした後、子ノード（left,right）
+    |　　　の有無を確認し、存在すればそれらをpushしていく。
+    |--< Depth-Fast-Search >
+    |   （非再帰的解法）Stack（もしくは　線形のデータ構造で、overrideしてStackを作る）を使い、ルートをpushした後、子ノード（left,right）
+    |　　　の有無を確認し、存在すればそれらをpushしていく。
+
+* 累積和 
+    |-- 一番のメリットは、累積和を使うことで、全探索するよりも高速化する点。
+
+
+
+#### References
 
 [Robot Moving](https://www.codechef.com/DEC11/problems/MOVES/ ). 
 * mod prime # の理解を深める. 
