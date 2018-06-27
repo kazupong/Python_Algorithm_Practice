@@ -23,20 +23,21 @@ These are some random self-studied codes written in Python 3.
 -------------------------
 
 * 二分探索木(binary tree). 
->
+> 
 >
 
 
 
 * グラフの探索(BFS,DFS). 
   
->    <Breadth-Fast-Search>. 
->>   (非再帰的解法）Queue --- Queue もしくは　線形のデータ構造で、overrideしてQueueを作る）を使い、ルートをpushした後、子ノード（left,right). 
->>                            の有無を確認し、存在すればそれらをpushしていく. 
+>    ***Breadth-Fast-Search***. 
+>>      (非再帰的解法）Queue --- Queue もしくは　線形のデータ構造で、overrideしてQueueを作る）を使い、ルートをpushした後、子ノード.   
+>>                            （left,right)の有無を確認し、存在すればそれらをpushしていく. 
 >>
->    <Depth-Fast-Search>. 
->>   (非再帰的解法）Stack --- Stack（もしくは　線形のデータ構造で、overrideしてStackを作る）を使い、ルートをpushした後、子ノード（left,right). 
->>                           の有無を確認し、存在すればそれらをpushしていく. 
+
+>    ***Depth-Fast-Search***. 
+>>      (非再帰的解法）Stack --- Stack（もしくは　線形のデータ構造で、overrideしてStackを作る）を使い、ルートをpushした後、子ノード
+>>                           （left,right) の有無を確認し、存在すればそれらをpushしていく.     
 >>
 
 
