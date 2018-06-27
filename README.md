@@ -1,11 +1,8 @@
 # Python_Algorithm_Practice. 
-
 ----------------------------
-
 These are some random self-studied codes written in Python 3.
-*****
-## カバーする予定のアルゴリズム. 
 
+## カバーする予定のアルゴリズム. 
 -----------------------------
 
 - [x] 二分探索木(binary tree)   -->   BFS_DFS.py
@@ -29,20 +26,20 @@ These are some random self-studied codes written in Python 3.
 >
 >
 
--------------------------
+
 
 * グラフの探索(BFS,DFS). 
   
-> <Breadth-Fast-Search>
+>    <Breadth-Fast-Search>. 
 >>   (非再帰的解法）Queue --- Queue もしくは　線形のデータ構造で、overrideしてQueueを作る）を使い、ルートをpushした後、子ノード（left,right). 
 >>                            の有無を確認し、存在すればそれらをpushしていく. 
->
-> <Depth-Fast-Search>
+>>
+>    <Depth-Fast-Search>. 
 >>   (非再帰的解法）Stack --- Stack（もしくは　線形のデータ構造で、overrideしてStackを作る）を使い、ルートをpushした後、子ノード（left,right). 
 >>                           の有無を確認し、存在すればそれらをpushしていく. 
->
+>>
 
-----------------------------
+
     
 * 累積和.  
 >      一番のメリットは、累積和を使うことで、全探索するよりも高速化する点. 
