@@ -8,7 +8,7 @@
 
 - [x] 二分探索木(binary tree)   -->   BFS_DFS.py
 - [x] グラフの探索(BFS,DFS)      -->   BFS_DFS.py
-- [x] 累積和                    -->  comulative_sum.py                             [参照サイト](https://paiza.hatenablog.com/entry/2015/01/21/【累積和、しゃくとり法】初級者でも解るアルゴ "参照サイト") 
+- [x] 累積和                    -->  comulative_sum.py                             
 - [x] しゃくとり法  
 - [ ] 累積xor
 - [ ] 二分探索
@@ -30,7 +30,7 @@
        定義にもよるが 一般的に、左側にルートの持つ属性値（ex: Int). 
        よりも ”小さい”属性値を持つノードが挿入される.  
        基準となるrootのその値がうまく中央値に近区なければ.   
-　　　　また挿入される値にうまくバラつかないと、最悪O(N)になりうる.  
+       そして、挿入される値にうまくバラつかないと、最悪O(N)になりうる.     
 
 
 
@@ -85,5 +85,5 @@
           10億７は素数であり、６４ビットのPCでoverflowしてしまう値を取り扱う時. 
           この素数を % して、　その余り　と　10億７のカウンターなどで扱うこともあるそう。
 
-[Xor Sum](https://beta.atcoder.jp/contests/abc050/tasks/arc066_b ). 
-* 
+[XOR Sum](https://beta.atcoder.jp/contests/abc050/tasks/arc066_b ). 
+[累積和、しゃくとり法](https://paiza.hatenablog.com/entry/2015/01/21/【累積和、しゃくとり法】初級者でも解るアルゴ "参照サイト") 
