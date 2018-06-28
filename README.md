@@ -26,6 +26,9 @@
 
 >  * 二分探索木(binary tree). 
 
+　　　　各ノードに左右二本のポインタが付いたデータ構造。定義にもよるが. 
+      一般的に、左側にルートの持つ属性値（ex: Int --> 5）よりも ”小さい”属性値を持つノードが挿入される。
+
 
 
 
@@ -76,7 +79,10 @@
 #### References
 
 [Robot Moving](https://www.codechef.com/DEC11/problems/MOVES/ ). 
-* mod prime # の理解を深める. 
+* mod prime # の理解を深める.
+
+          10億７は素数であり、６４ビットのPCでoverflowしてしまう値を取り扱う時. 
+          この素数を % して、　その余り　と　10億７のカウンターなどで扱うこともあるそう。
 
 [Xor Sum](https://beta.atcoder.jp/contests/abc050/tasks/arc066_b ). 
 * 
